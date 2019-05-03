@@ -5,13 +5,13 @@ Created interactive dashboard to explore the Belly Button Biodiversity DataSet (
 
 ##  Heroku
 
-Deployed your Flask app to Heroku.
+Deployed Flask app to Heroku.
 
 
 
 ## Used Flask API
 
-Use Flask API starter code to serve the data needed for your plots.
+Used Flask API starter code to serve the data needed for your plots.
 
 ![Image](https://github.com/prakashricha/BellyButton-Analysis/blob/master/Dashboard.PNG)
 
